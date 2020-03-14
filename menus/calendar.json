@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Todays' calendar",
+        "command": "calendar:add-today-calendar"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "calendar",
+          "submenu": [
+            {
+              "label": "Insert Today's calendar",
+              "command": "calendar:add-today-calendar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
