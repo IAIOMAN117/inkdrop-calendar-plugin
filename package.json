@@ -1,15 +1,13 @@
 {
-  "name": "calendar",
-  "main": "./lib/calendar",
-  "version": "0.0.1",
-  "description": "A simple plugin to add calendars to your notes",
-  "keywords": [
-  ],
-  "repository": "https://github.com/inkdropapp/calendar",
-  "license": "MIT",
-  "engines": {
-    "inkdrop": "^4.x"
-  },
-  "dependencies": {
-  }
+    "name": "calendar",
+    "main": "./lib/calendar",
+    "version": "0.0.0",
+    "description": "A simple plugin to add calendars to your notes",
+    "keywords": [],
+    "repository": "https://github.com/IAIOMAN117/inkdrop-calendar-plugin",
+    "license": "MIT",
+    "engines": {
+        "inkdrop": "^4.x"
+    },
+    "dependencies": {}
 }
