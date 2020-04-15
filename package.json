@@ -1,7 +1,7 @@
 {
     "name": "simple-calendar",
     "main": "./lib/calendar",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "A simple plugin to add calendars to your notes",
     "keywords": [],
     "repository": "https://github.com/IAIOMAN117/inkdrop-calendar-plugin",
