@@ -1,20 +1,25 @@
 {
     "context-menu": {
         ".CodeMirror": [{
-            "label": "Todays' calendar",
-            "command": "calendar:add-today-calendar"
-        }]
+                "label": "Insert Today's calendar",
+                "command": "calendar:add-today-calendar"
+            },
+            {
+                "label": "Choose a calendar",
+                "command": "calendar:add-selected-calendar"
+            }
+        ]
     },
     "menu": [{
         "label": "Plugins",
         "submenu": [{
-            "label": "calendar",
+            "label": "simple-calendar",
             "submenu": [{
                     "label": "Insert Today's calendar",
                     "command": "calendar:add-today-calendar"
                 },
                 {
-                    "label": "Insert Selected calendar",
+                    "label": "Choose a calendar",
                     "command": "calendar:add-selected-calendar"
                 }
             ]
