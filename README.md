@@ -5,7 +5,7 @@ Fast and easy way to add a calendar to your notes
 With this plugin you will be able to integrate a simple calendar view that its made out of standard markdown elements.
 
 How to Install:
-* You need to have **ipm** previously installed, refer to this guide to install it.
+* You need to have **ipm** previously installed, refer to [this guide](https://docs.inkdrop.app/manual/extend-inkdrop-with-plugins) to install it.
 * Execute the following command: `ipm install simple-calendar`
 
 How to Activate:
